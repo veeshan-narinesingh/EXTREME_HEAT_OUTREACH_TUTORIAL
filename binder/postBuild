@@ -8,3 +8,4 @@ sudo apt-get install -y libgdal-dev
 
 # Use conda to install cartopy and its dependencies
 conda install -c conda-forge cartopy matplotlib==3.6.0 netcdf4 h5netcdf
+conda install -c conda-forge geos proj
