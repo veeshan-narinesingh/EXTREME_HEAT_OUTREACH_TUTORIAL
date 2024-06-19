@@ -1,3 +1,4 @@
+dask==2022.7.0
 xarray==2023.2.0
 numpy==1.23.1
 matplotlib==3.5.2
@@ -7,4 +8,3 @@ shapely==1.8.5.post1
 pyproj==3.3.1
 datetime==5.5
 gdown==5.2.0
-dask==2022.7.0
